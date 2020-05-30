@@ -19,7 +19,7 @@ public class ArmstongNumber {
     }
 
     public static void main(String[] args) {
-        int given =153;
+        int given =157;
         System.out.println(Armstrong(given));
     }
 }
