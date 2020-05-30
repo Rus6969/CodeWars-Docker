@@ -73,6 +73,7 @@ public class InstreamExample {
                 .summaryStatistics();
         System.out.println(summary);
     }
+
     }
 
 

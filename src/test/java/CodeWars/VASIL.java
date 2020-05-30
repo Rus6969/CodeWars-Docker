@@ -34,7 +34,7 @@ public class VASIL {
 
 
     public static void main(String[] args) {
-        int[] line={25,25,50,100};
+        int[] line={100,25,50,100};
         System.out.println(tickets(line));
     }
 }
