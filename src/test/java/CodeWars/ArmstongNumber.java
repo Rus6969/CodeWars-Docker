@@ -1,5 +1,7 @@
 package CodeWars;
 
+import org.openqa.selenium.json.JsonOutput;
+
 public class ArmstongNumber {
 
     public static boolean Armstrong(int num){
@@ -19,7 +21,7 @@ public class ArmstongNumber {
     }
 
     public static void main(String[] args) {
-        int given =157;
+        int given =153;
         System.out.println(Armstrong(given));
     }
 }
