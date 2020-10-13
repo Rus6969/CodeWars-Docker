@@ -22,7 +22,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="" />
+    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodeWars-Docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_20,_8_57_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_20__8_57_PM__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerLaunch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DockerLaunch.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +77,13 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1if8urUkPSBVmvgXlIZoncQeOgM" />
   <component name="ProjectViewState">
@@ -53,8 +102,38 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FindFirstNonConsecutivenumber">
+    <configuration name="FindFirstNonConsecutivenumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.FindFirstNonConsecutivenumber" />
+      <module name="CodeWars-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="camelCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.camelCasting" />
+      <module name="CodeWars-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="isArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars.isArraySorted" />
       <module name="DockerLaunch" />
@@ -81,6 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindFirstNonConsecutivenumber" />
+        <item itemvalue="Application.camelCasting" />
+        <item itemvalue="Application.isArraySorted" />
         <item itemvalue="Application.isArraySorted" />
         <item itemvalue="Application.isArraySorted" />
       </list>
@@ -95,6 +177,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602287514587</updated>
       <workItem from="1602287516633" duration="1045000" />
+      <workItem from="1602292241801" duration="2741000" />
     </task>
     <servers />
   </component>
@@ -111,23 +194,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="264" key="GridCell.Tab.0.bottom" timestamp="1602289222109">
+    <state x="453" y="77" key="#Java" timestamp="1602291793626">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1602289222109" />
-    <state width="1358" height="264" key="GridCell.Tab.0.center" timestamp="1602289222108">
+    <state x="453" y="77" key="#Java/0.23.1792.1017@0.23.1792.1017" timestamp="1602291793626" />
+    <state x="621" y="362" key="#Notifications" timestamp="1602291729292">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1602289222108" />
-    <state width="1358" height="264" key="GridCell.Tab.0.left" timestamp="1602289222107">
+    <state x="621" y="362" key="#Notifications/0.23.1792.1017@0.23.1792.1017" timestamp="1602291729292" />
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom" timestamp="1602345351993">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1602289222107" />
-    <state width="1358" height="264" key="GridCell.Tab.0.right" timestamp="1602289222108">
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1358" height="264" key="GridCell.Tab.0.center" timestamp="1602345351993">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1602289222108" />
+    <state width="1358" height="264" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1358" height="264" key="GridCell.Tab.0.left" timestamp="1602345351993">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1358" height="264" key="GridCell.Tab.0.right" timestamp="1602345351993">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state x="384" y="113" key="SettingsEditor" timestamp="1602292351218">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1602292351218" />
+    <state x="561" y="246" key="run.anything.popup" timestamp="1602291897529">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="561" y="246" key="run.anything.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602291897529" />
+    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1602292353485">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602292353485" />
   </component>
 </project>
