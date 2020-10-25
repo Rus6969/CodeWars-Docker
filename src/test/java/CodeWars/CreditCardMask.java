@@ -18,6 +18,7 @@ public class CreditCardMask {
            }
            result+=acountN.substring(acountN.length()-4);
             System.out.println("result = " + result);
+            System.out.println("ruslan is fun ");
         }
     }
 }

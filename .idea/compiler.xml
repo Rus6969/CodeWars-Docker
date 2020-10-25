@@ -6,11 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+
+        <module name="DockerLaunch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DockerLaunch" target="8" />
+
         <module name="CodeWars-Docker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CodeWars-Docker" target="8" />
+
     </bytecodeTargetLevel>
   </component>
 </project>
