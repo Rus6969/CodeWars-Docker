@@ -23,18 +23,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_25_20,_5_28_PM_[Default_Changelist]/ArmstongNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_25_20,_5_28_PM_[Default_Changelist]/CreditCardMask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_25_20,_5_28_PM_[Default_Changelist]/bubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_25_20,_5_28_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_25_20__5_28_PM__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/rotate90matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/totateMatrix90degreeRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_20,_8_57_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_9_20__8_57_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CodeWars/DateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CodeWars/PrintFirstLastChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodeWars-Docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodeWars-Docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/AlternateCapitalization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/ggg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CodeWars/FindFirstNonConsecutivenumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CodeWars/FindFirstNonConsecutivenumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CodeWars/findFirstRepeatedCharecter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CodeWars/findFirstRepeatedCharecter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/ArmstongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/ArmstongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/ArrayToArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/ArrayToArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/CombineArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/CombineArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/CreditCardMask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/CreditCardMask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/DateTimeConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/DateTimeConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/DaysBetweenDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/DaysBetweenDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/DigitalRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/DigitalRoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/EncryptExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/EncryptExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/FactorialNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/FactorialNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Fibonaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Fibonaci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/FindFirstNonConsecutivenumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/FindFirstNonConsecutivenumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/FindN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/FindN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/FindUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/FindUnique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/FirstNonCocnsequtive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/FirstNonCocnsequtive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Greetings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/LargestFiveDigitNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/LargestFiveDigitNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Likes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Likes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/MassRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/MassRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/MexicanWave.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/MexicanWave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/MinimaLArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/MinimaLArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/MostFrequentUsedWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/MostFrequentUsedWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/MyLanguages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/MyLanguages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/NUmber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/NUmber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/PasswordValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/PasswordValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/RemoveMoveValuesMoreThan100.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/RemoveMoveValuesMoreThan100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Scannwer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Scannwer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Smile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Smile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/SplitString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/SplitString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/StringManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/SumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/SumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/SumOddNumbersTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/SumOddNumbersTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/Swap2Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/Swap2Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/VASIL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/VASIL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/bubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/bubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/camelCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/camelCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/devideWithoutDevision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/devideWithoutDevision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/findMissingNumberinArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/findMissingNumberinArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/findOddTimesAppear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/findOddTimesAppear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/foreverYoung.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/foreverYoung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/garbige.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/garbige.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/greetMe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/greetMe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/havingsum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/havingsum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/highestAndLowest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/highestAndLowest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/isAdigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/isAdigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/isApangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/isApangram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/isArraySorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/isArraySorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/maaaaaaaapFreq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/maaaaaaaapFreq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/missingLetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/missingLetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/reverseINT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/reverseINT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/reverseStringsInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/reverseStringsInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/sortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/sortArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/sortwithNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/sortwithNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/sumOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/sumOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/Setup_Docker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/Setup_Docker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod5Firefox.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Docker/TestMethod5Firefox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/EcryptionJava/MAC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EcryptionJava/MAC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/EcryptionJava/lesson1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EcryptionJava/lesson1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Instream/InstreamExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Instream/InstreamExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Instream/findMissingInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Instream/findMissingInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Instream/hhh.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Instream/hhh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Instream/javaNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Instream/javaNew.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +148,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.rotate90matrix">
-    <configuration name="CombineArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.CombineArrays" />
+  <component name="RunManager" selected="Application.DateFormat">
+    <configuration name="CreditCardMask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.CreditCardMask" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="camelCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.camelCasting" />
+    <configuration name="DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.DateFormat" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
@@ -112,9 +175,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isArraySorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.isArraySorted" />
-      <module name="DockerLaunch" />
+    <configuration name="FindUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.FindUnique" />
+      <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CodeWars.*" />
@@ -125,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotate90matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewQuestions.rotate90matrix" />
+    <configuration name="InsertInLinkedListNodeAtRightPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.InsertInLinkedListNodeAtRightPosition" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewQuestions.*" />
+          <option name="PATTERN" value="CodeWars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="totateMatrix90degreeRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewQuestions.totateMatrix90degreeRight" />
+    <configuration name="PrintFirstLastChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.PrintFirstLastChar" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewQuestions.*" />
+          <option name="PATTERN" value="CodeWars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.rotate90matrix" />
-        <item itemvalue="Application.totateMatrix90degreeRight" />
-        <item itemvalue="Application.CombineArrays" />
-        <item itemvalue="Application.isArraySorted" />
-        <item itemvalue="Application.camelCasting" />
+        <item itemvalue="Application.DateFormat" />
+        <item itemvalue="Application.InsertInLinkedListNodeAtRightPosition" />
+        <item itemvalue="Application.CreditCardMask" />
+        <item itemvalue="Application.PrintFirstLastChar" />
+        <item itemvalue="Application.FindUnique" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +251,9 @@
       <workItem from="1604187623833" duration="1200000" />
       <workItem from="1604419820896" duration="8000" />
       <workItem from="1604419844398" duration="179000" />
-      <workItem from="1605284233995" duration="302000" />
+      <workItem from="1605284233995" duration="7622000" />
+      <workItem from="1605371626648" duration="11000" />
+      <workItem from="1605557412918" duration="10485000" />
     </task>
     <servers />
   </component>
@@ -207,6 +272,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="453" y="77" key="#Java" timestamp="1602291793626">
       <screen x="0" y="23" width="1792" height="1017" />
@@ -220,43 +288,87 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="496" y="179" key="#Plugins/0.23.1792.1022@0.23.1792.1022" timestamp="1604419978570" />
-    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1604018554745">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom" timestamp="1606004841623">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1605558140692" />
+    <state width="1750" height="338" key="GridCell.Tab.0.bottom/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363914" />
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1606004841623" />
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1605284565151" />
     <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1604018554745" />
     <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1603661595240" />
-    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1604018554745">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1750" height="274" key="GridCell.Tab.0.center" timestamp="1606004841622">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1605558140691" />
+    <state width="1750" height="338" key="GridCell.Tab.0.center/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363912" />
+    <state width="1750" height="274" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1606004841622" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1605284565150" />
     <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1604018554745" />
     <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1603661595239" />
-    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1604018554744">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1750" height="274" key="GridCell.Tab.0.left" timestamp="1606004841621">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1605558140690" />
+    <state width="1750" height="338" key="GridCell.Tab.0.left/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363911" />
+    <state width="1750" height="274" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1606004841621" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1605284565150" />
     <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1604018554744" />
     <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1603661595239" />
-    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1604018554745">
-      <screen x="0" y="23" width="1792" height="1030" />
+    <state width="1750" height="274" key="GridCell.Tab.0.right" timestamp="1606004841622">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state width="1358" height="264" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1602345351993" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1605558140691" />
+    <state width="1750" height="338" key="GridCell.Tab.0.right/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363913" />
+    <state width="1750" height="274" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1606004841622" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1605284565150" />
     <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1604018554745" />
     <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1603661595239" />
+    <state width="1750" height="338" key="GridCell.Tab.1.bottom" timestamp="1606004444368">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1605371606442" />
+    <state width="1750" height="338" key="GridCell.Tab.1.bottom/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363776" />
+    <state width="1750" height="338" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1606004444368" />
+    <state width="1750" height="338" key="GridCell.Tab.1.center" timestamp="1606004444368">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1605371606441" />
+    <state width="1750" height="338" key="GridCell.Tab.1.center/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363775" />
+    <state width="1750" height="338" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1606004444368" />
+    <state width="1750" height="338" key="GridCell.Tab.1.left" timestamp="1606004444368">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1605371606441" />
+    <state width="1750" height="338" key="GridCell.Tab.1.left/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363775" />
+    <state width="1750" height="338" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1606004444368" />
+    <state width="1750" height="338" key="GridCell.Tab.1.right" timestamp="1606004444368">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1605371606441" />
+    <state width="1750" height="338" key="GridCell.Tab.1.right/0.23.1792.1015@0.23.1792.1015" timestamp="1606004363776" />
+    <state width="1750" height="338" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1606004444368" />
     <state x="384" y="113" key="SettingsEditor" timestamp="1604420024228">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="384" y="113" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1602292351218" />
     <state x="384" y="113" key="SettingsEditor/0.23.1792.1022@0.23.1792.1022" timestamp="1604420024228" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1606000920643">
+      <screen x="0" y="23" width="1792" height="1015" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1792.1015@0.23.1792.1015" timestamp="1606000920643" />
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1605284628275">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2/0.23.1792.1028@0.23.1792.1028" timestamp="1605284628275" />
     <state x="561" y="246" key="run.anything.popup" timestamp="1602291897529">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="561" y="246" key="run.anything.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602291897529" />
-    <state x="561" y="259" width="670" height="680" key="search.everywhere.popup" timestamp="1604420014744">
-      <screen x="0" y="23" width="1792" height="1022" />
+    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1606003304568">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602292353485" />
+    <state x="561" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1606003304568" />
     <state x="561" y="259" width="670" height="680" key="search.everywhere.popup/0.23.1792.1022@0.23.1792.1022" timestamp="1604420014744" />
   </component>
 </project>
