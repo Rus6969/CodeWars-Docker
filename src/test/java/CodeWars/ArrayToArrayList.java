@@ -9,6 +9,7 @@ public class ArrayToArrayList {
         String[]arr2={"Dima","Inna","Alex"};
 
         List<Integer> transfer=new LinkedList<>(Arrays.stream(arr).boxed().collect(Collectors.toList()));
+        System.out.println(transfer);
 
     }
 }
