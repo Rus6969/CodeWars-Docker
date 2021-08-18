@@ -23,20 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="remove test files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CodeWars/Social_secNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CodeWars/reverseThisThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructure/runClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21,_12_22_PM_[Default_Changelist]/LargestFiveDigitNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21,_12_22_PM_[Default_Changelist]/MexicanWave.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21,_12_22_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21,_12_28_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21__12_22_PM__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_1_27_21__12_28_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructure/linkedList/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CodeWars/ArrayToArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CodeWars/ArrayToArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CodeWars/ArrayToArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CodeWars/ArrayToArrayList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +76,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Social_secNumb">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runClass">
     <configuration name="CreditCardMask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars.CreditCardMask" />
       <module name="CodeWars-Docker" />
@@ -104,19 +97,6 @@
     </configuration>
     <configuration name="Social_secNumb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars.Social_secNumb" />
-      <module name="CodeWars-Docker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodeWars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="camelCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.camelCasting" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
@@ -154,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="runClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.runClass" />
+      <module name="CodeWars-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -169,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.runClass" />
         <item itemvalue="Application.Social_secNumb" />
         <item itemvalue="Application.CreditCardMask" />
         <item itemvalue="Application.reverseThisThing" />
         <item itemvalue="Application.reverseStringsInArray" />
-        <item itemvalue="Application.camelCasting" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +198,7 @@
       <workItem from="1629259110055" duration="557000" />
       <workItem from="1629291883718" duration="1496000" />
       <workItem from="1629293628432" duration="3966000" />
-      <workItem from="1629303604364" duration="2789000" />
+      <workItem from="1629303604364" duration="6047000" />
     </task>
     <task id="LOCAL-00001" summary="remove test files">
       <created>1628565988281</created>
@@ -214,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628565988281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove test files">
+      <created>1629310178746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629310178746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,50 +241,58 @@
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
     <state x="744" y="460" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1010@0.25.1792.1010" timestamp="1628565999611" />
-    <state width="1750" height="211" key="GridCell.Tab.0.bottom" timestamp="1629304823731">
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1629311286015">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="211" key="GridCell.Tab.0.bottom/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629298049212" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286015" />
     <state width="1750" height="211" key="GridCell.Tab.0.bottom/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629304823731" />
     <state width="1750" height="289" key="GridCell.Tab.0.bottom/-1920.-628.1920.960/0.25.1792.1095@-1920.-628.1920.960" timestamp="1629263772500" />
     <state width="1750" height="211" key="GridCell.Tab.0.bottom/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1629297181747" />
-    <state width="1750" height="211" key="GridCell.Tab.0.center" timestamp="1629304823731">
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1629311286014">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="211" key="GridCell.Tab.0.center/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629298049211" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286014" />
     <state width="1750" height="211" key="GridCell.Tab.0.center/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629304823731" />
     <state width="1750" height="289" key="GridCell.Tab.0.center/-1920.-628.1920.960/0.25.1792.1095@-1920.-628.1920.960" timestamp="1629263772500" />
     <state width="1750" height="211" key="GridCell.Tab.0.center/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1629297181746" />
-    <state width="1750" height="211" key="GridCell.Tab.0.left" timestamp="1629304823730">
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1629311286013">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="211" key="GridCell.Tab.0.left/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629298049211" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286013" />
     <state width="1750" height="211" key="GridCell.Tab.0.left/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629304823730" />
     <state width="1750" height="289" key="GridCell.Tab.0.left/-1920.-628.1920.960/0.25.1792.1095@-1920.-628.1920.960" timestamp="1629263772461" />
     <state width="1750" height="211" key="GridCell.Tab.0.left/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1629297181746" />
-    <state width="1750" height="211" key="GridCell.Tab.0.right" timestamp="1629304823731">
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1629311286014">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="211" key="GridCell.Tab.0.right/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629298049212" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286014" />
     <state width="1750" height="211" key="GridCell.Tab.0.right/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629304823731" />
     <state width="1750" height="289" key="GridCell.Tab.0.right/-1920.-628.1920.960/0.25.1792.1095@-1920.-628.1920.960" timestamp="1629263772500" />
     <state width="1750" height="211" key="GridCell.Tab.0.right/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1629297181747" />
-    <state width="1750" height="317" key="GridCell.Tab.1.bottom" timestamp="1629294298897">
+    <state width="1750" height="317" key="GridCell.Tab.1.bottom" timestamp="1629311286016">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="317" key="GridCell.Tab.1.bottom/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629294298897" />
-    <state width="1750" height="317" key="GridCell.Tab.1.center" timestamp="1629294298897">
+    <state width="1750" height="317" key="GridCell.Tab.1.bottom/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286016" />
+    <state width="1750" height="317" key="GridCell.Tab.1.center" timestamp="1629311286015">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="317" key="GridCell.Tab.1.center/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629294298897" />
-    <state width="1750" height="317" key="GridCell.Tab.1.left" timestamp="1629294298896">
+    <state width="1750" height="317" key="GridCell.Tab.1.center/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286015" />
+    <state width="1750" height="317" key="GridCell.Tab.1.left" timestamp="1629311286015">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="317" key="GridCell.Tab.1.left/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629294298896" />
-    <state width="1750" height="317" key="GridCell.Tab.1.right" timestamp="1629294298897">
+    <state width="1750" height="317" key="GridCell.Tab.1.left/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286015" />
+    <state width="1750" height="317" key="GridCell.Tab.1.right" timestamp="1629311286016">
       <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state width="1750" height="317" key="GridCell.Tab.1.right/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629294298897" />
+    <state width="1750" height="317" key="GridCell.Tab.1.right/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629311286016" />
     <state x="534" y="295" key="MultipleFileMergeDialog" timestamp="1628566029181">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
@@ -312,5 +320,144 @@
     </state>
     <state x="-1316" y="-382" width="718" height="694" key="search.everywhere.popup/-1920.-628.1920.1055/0.25.1792.1008@-1920.-628.1920.1055" timestamp="1629297491670" />
     <state x="564" y="265" width="670" height="676" key="search.everywhere.popup/0.25.1792.1029@0.25.1792.1029" timestamp="1628613364775" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/Arrays.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/DataStructure/runClass.java</url>
+          <line>3</line>
+          <properties class="DataStructure.runClass" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
