@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="new task map">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructure/Hashing/FindFirstRepeatingCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructure/Hashing/FindFirstNonRepeatingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructure/Hashing/FindFirstNonRepeatingCharacter.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="new task map" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,6 +202,7 @@
       <workItem from="1629552983722" duration="1890000" />
       <workItem from="1629566082653" duration="3652000" />
       <workItem from="1629586152697" duration="4619000" />
+      <workItem from="1629660309244" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="remove test files">
       <created>1628565988281</created>
@@ -284,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629588110947</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new task map">
+      <created>1629660476940</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629660476940</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
