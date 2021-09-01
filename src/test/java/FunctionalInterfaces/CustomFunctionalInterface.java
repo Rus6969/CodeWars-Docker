@@ -11,6 +11,13 @@ public class CustomFunctionalInterface {
                 return str2;
             };
 
+
         System.out.println(twoStrings.function("Java","Phyton"));
+        System.out.println("*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
+
+
+        GenericDataFunction<String> reverse= s -> new StringBuilder(s).reverse().toString();
+
+        System.out.println(reverse.function("Ruslan"));
     }
 }
