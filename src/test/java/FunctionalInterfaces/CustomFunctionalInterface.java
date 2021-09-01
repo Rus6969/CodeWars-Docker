@@ -15,7 +15,7 @@ public class CustomFunctionalInterface {
         System.out.println(twoStrings.function("Java","Phyton"));
         System.out.println("*-*--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-");
 
-
+// no need body {} because only one action is taken only one parameter
         GenericDataFunction<String> reverse= s -> new StringBuilder(s).reverse().toString();
 
         System.out.println(reverse.function("Ruslan"));
