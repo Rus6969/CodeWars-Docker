@@ -23,8 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="labda generic type">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FunctionalInterfaces/ConsumerFunctionalInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FunctionalInterfaces/ConsumerFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FunctionalInterfaces/ConsumerFunctionalInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +212,7 @@
       <workItem from="1630165463487" duration="2810000" />
       <workItem from="1630337503987" duration="1871000" />
       <workItem from="1630347607664" duration="6666000" />
-      <workItem from="1630458667304" duration="10504000" />
+      <workItem from="1630458667304" duration="11116000" />
     </task>
     <task id="LOCAL-00001" summary="remove test files">
       <created>1628565988281</created>
@@ -376,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630542740207</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="labda generic type">
+      <created>1630543775062</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1630543775062</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +413,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="labda generic type" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="744" y="497" key="Github.Dialog.Accounts.Choose" timestamp="1630542743514">
+    <state x="744" y="497" key="Github.Dialog.Accounts.Choose" timestamp="1630543778662">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588255699" />
@@ -418,7 +424,7 @@
     <state x="-1123" y="-221" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.945/0.25.1792.1095@-1920.-628.1920.945" timestamp="1630168729667" />
     <state x="-1123" y="-213" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1630525465958" />
     <state x="-1123" y="-211" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.968/0.25.1792.1095@-1920.-628.1920.968" timestamp="1630348528275" />
-    <state x="744" y="497" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.971/0.25.1792.1095@0.25.1792.1095" timestamp="1630542743514" />
+    <state x="744" y="497" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.971/0.25.1792.1095@0.25.1792.1095" timestamp="1630543778662" />
     <state x="-1123" y="-209" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.973/0.25.1792.1095@-1920.-628.1920.973" timestamp="1629329564031" />
     <state width="1750" height="133" key="GridCell.Tab.0.bottom" timestamp="1630543470081">
       <screen x="0" y="25" width="1792" height="1095" />
@@ -556,7 +562,7 @@
       <screen x="0" y="25" width="1792" height="1029" />
     </state>
     <state x="408" y="180" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1628618301841" />
-    <state x="496" y="287" key="Vcs.Push.Dialog.v2" timestamp="1630542741760">
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2" timestamp="1630543776527">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588115926" />
@@ -566,7 +572,7 @@
     <state x="-1389" y="-403" key="Vcs.Push.Dialog.v2/-1920.-628.1920.940/0.25.1792.1095@-1920.-628.1920.940" timestamp="1629660676861" />
     <state x="-1389" y="-402" key="Vcs.Push.Dialog.v2/-1920.-628.1920.945/0.25.1792.1095@-1920.-628.1920.945" timestamp="1630168727297" />
     <state x="-1389" y="-398" key="Vcs.Push.Dialog.v2/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1630525463725" />
-    <state x="496" y="287" key="Vcs.Push.Dialog.v2/-1920.-628.1920.971/0.25.1792.1095@0.25.1792.1095" timestamp="1630542741760" />
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2/-1920.-628.1920.971/0.25.1792.1095@0.25.1792.1095" timestamp="1630543776527" />
     <state x="-1389" y="-395" key="Vcs.Push.Dialog.v2/-1920.-628.1920.973/0.25.1792.1095@-1920.-628.1920.973" timestamp="1629329562201" />
     <state x="-1403" y="-494" width="1288" height="708" key="dock-window-1" timestamp="1630005062257">
       <screen x="-1920" y="-628" width="1920" height="1055" />
