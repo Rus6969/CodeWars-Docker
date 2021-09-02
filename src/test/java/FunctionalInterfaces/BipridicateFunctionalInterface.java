@@ -1,5 +1,9 @@
 package FunctionalInterfaces;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 import java.util.function.BiPredicate;
 
 public class BipridicateFunctionalInterface {
@@ -12,7 +16,35 @@ public class BipridicateFunctionalInterface {
             return false;
         };
 
-    int[] array = {1, 2, 3, 4};
-        System.out.println(contains.test(array,3));
+        int[] array = {1, 2, 3, 4};
+        System.out.println(contains.test(array, 3));
+        System.out.println("*---*/-*/-*/-*/-*/-*/-*/-*/-*/-*/-*/*/*/-*/-/-/-/-/");
+
+
+        // heart earth
+        BiPredicate<String, String> isAnagram = (str1, str2) -> {
+            char[] ch1 = str1.toCharArray();
+            char[] ch2 = str2.toCharArray();
+            Arrays.sort(ch1);
+            Arrays.sort(ch2);
+            return Arrays.equals(ch1, ch2);
+
+        };
+        System.out.println(isAnagram.test("heart", "earth"));
+        System.out.println("*---*/-*/-*/-*/-*/-*/-*/-*/-*/-*/-*/*/*/-*/-/-/-/-/");
+        BiPredicate<List<Integer>, Integer>  isDuplicated = (l, e) -> Collections.frequency(l, e) > 1;
+
+        List<Integer> list = new ArrayList<>();
+        list.addAll(Arrays.asList(1,1,1,2,3,3,3,4,5,5,5,6));
+
+        list.forEach( n -> {
+            if(!isDuplicated.test(list , n  )){
+                System.out.print(n +" ");
+            }
+        } );
+
+        System.out.println();
+
+    }
 }
-}
+
