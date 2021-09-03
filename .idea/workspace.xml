@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="non consecuitive integer for loop, instream,Atomic Intweger">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Instream/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Instream/StreamPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/interviewQuestions/findFirstNonconscutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/findFirstNonconscutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CodeWars/findOddTimesAppear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CodeWars/findOddTimesAppear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +81,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamPractice">
-    <configuration name="BiConsumerFunctionalInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalInterfaces.BiConsumerFunctionalInterface" />
-      <module name="CodeWars-Docker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FunctionalInterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.findOddTimesAppear">
     <configuration name="Fibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodeWars.Fibonaci" />
       <module name="CodeWars-Docker" />
@@ -149,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="findOddTimesAppear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeWars.findOddTimesAppear" />
+      <module name="CodeWars-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodeWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -164,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.findOddTimesAppear" />
         <item itemvalue="Application.StreamPractice" />
         <item itemvalue="Application.FindFirstNonConsecutivenumber" />
         <item itemvalue="Application.Fibonaci" />
         <item itemvalue="Application.SupplierInterface" />
-        <item itemvalue="Application.BiConsumerFunctionalInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +214,7 @@
       <workItem from="1630347607664" duration="6666000" />
       <workItem from="1630458667304" duration="13309000" />
       <workItem from="1630546997213" duration="1201000" />
-      <workItem from="1630587895779" duration="19342000" />
+      <workItem from="1630587895779" duration="19657000" />
     </task>
     <task id="LOCAL-00001" summary="remove test files">
       <created>1628565988281</created>
@@ -449,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630701894600</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="non consecuitive integer for loop, instream,Atomic Intweger">
+      <created>1630705157420</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1630705157420</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

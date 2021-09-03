@@ -1,7 +1,6 @@
 package CodeWars;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class findOddTimesAppear {
 
@@ -35,6 +34,12 @@ public class findOddTimesAppear {
     public static void main(String[] args) {
         int arr[]={1,1,2,2,2,2,3,3,3};
         System.out.println("findIt(arr) = " + findIt(arr));
+
+        ArrayList<Integer>list =new ArrayList<>();
+        list.addAll(Arrays.asList(1,1,2,2,2,2,3,3,3));
+
+        int num = list.stream().filter(x-> Collections.frequency(list,x)%2!=0).findAny().get();
+        System.out.println(num);
 
     }
 }
