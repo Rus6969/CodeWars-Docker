@@ -2,6 +2,7 @@ package Instream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -94,6 +95,17 @@ public class StreamPractice {
         String str1 = names.stream().filter( p -> p.toLowerCase().contains("a")).reduce("", (x, y)-> x+" "+y );
 
         System.out.println(str1);
+
+        System.out.println("-----------------------" +
+                "");
+
+
+        ArrayList<Integer>list23 =new ArrayList<>();
+
+        list23.addAll(Arrays.asList(1,1,2,2,2,2,3,3,3));
+        int num = list23.stream().filter(x-> Collections.frequency(list23,x)%2!=0).findAny().get();
+        System.out.println(num);
+
 
 
 
