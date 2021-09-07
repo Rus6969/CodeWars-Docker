@@ -81,7 +81,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sortingAlgorithms">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingAlgorithms.BubbleSort" />
       <module name="CodeWars-Docker" />
@@ -160,8 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sortingAlgorithms" />
         <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.sortingAlgorithms" />
         <item itemvalue="Application.StreamPractice" />
         <item itemvalue="Application.findOddTimesAppear" />
         <item itemvalue="Application.FindFirstNonConsecutivenumber" />
