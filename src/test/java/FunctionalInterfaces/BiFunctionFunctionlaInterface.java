@@ -45,9 +45,38 @@ public class BiFunctionFunctionlaInterface {
                 System.out.println(k);
         }   );
 
+        Map<String ,Integer> junkFood= new HashMap<>();
+        junkFood.put("burger", 1100);
+        junkFood.put("fries",900);
+        junkFood.put("cheese ", 780);
+
+        System.out.println(junkFood);
+        System.out.println("___----_____----_______-----___-----______");
 
 
 
+        List<Map.Entry<String,Integer>>sortedByValue= new LinkedList<>( junkFood.entrySet());
+        //The entrySet( ) method declared by the Map interface returns a Set containing the map entries.
+        // Each of these set elements is a Map.Entry object.
+        /*
+        Set<Map.Entry> entrySet() – Returns the Set view of the entire map.
+Note : This is not a method of Map.entry interface but
+it is discussed here because this method is useful while working with Map.Entry interface.
+         */
+        sortedByValue.sort(Map.Entry.comparingByValue());
+        System.out.println("sortedByValue = " + sortedByValue);
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-");
+        sortedByValue.sort(Map.Entry.comparingByKey());
+        System.out.println("sortedByValue = " + sortedByValue);
+
+
+
+
+    // sort by values
+      employees.entrySet().stream()
+                .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                .limit(10)
+                .forEach(System.out::println);
 
 
     }
