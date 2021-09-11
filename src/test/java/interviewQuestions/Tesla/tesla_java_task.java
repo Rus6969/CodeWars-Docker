@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//https://fooobar.com/questions/16994843/average-test-score-from-result-array-with-varying-group-sizes
 public class tesla_java_task {
 
     public static void main(String[] args) {
