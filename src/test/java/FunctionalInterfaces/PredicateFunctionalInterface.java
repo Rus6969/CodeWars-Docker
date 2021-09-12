@@ -3,7 +3,7 @@ package FunctionalInterfaces;
 import java.util.*;
 import java.util.function.Predicate;
 public class PredicateFunctionalInterface {
-
+// predicate is used when we want return boolean
     public static void main(String[] args) {
 
         Predicate<Integer> isEven = number -> {

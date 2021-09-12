@@ -3,7 +3,7 @@ package FunctionalInterfaces;
 import java.util.Arrays;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-
+// input output
 public class FunctionFunctionalInterface {
     public static void main(String[] args) {
 

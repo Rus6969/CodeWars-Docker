@@ -1,14 +1,41 @@
 package FunctionalInterfaces;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
-
+// only consumes data not returning results, modifies data not returning result
 public class ConsumerFunctionalInterface {
+
+    public static class Inna{
+        public void setMajor(String major) {
+            this.major = major;
+        }
+
+        public void setAge(int age) {
+            this.age = age;
+        }
+
+        private String major;
+        private int age;
+
+        public String getMajor() {
+            return major;
+        }
+
+        public int getAge() {
+            return age;
+        }
+    }
+
+
     public static void main(String[] args) {
+
+        Inna innaTemp = new Inna();
+        Consumer<Inna>changeMidy= i-> i.setAge(25);
+        changeMidy.accept(innaTemp);
+   /////////////////////////////////////////////////////
+        System.out.println(innaTemp.age);
+
         Consumer<String> printThreetimes = s -> System.out.println(s + s + s);
 
         printThreetimes.accept("Ruslan");
