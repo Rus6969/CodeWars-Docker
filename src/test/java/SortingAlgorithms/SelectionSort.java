@@ -2,10 +2,10 @@ package SortingAlgorithms;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
-
+// always lookin minimum value and swap it
 public class SelectionSort {
 
-    public static int[] selectionSort(int[]array){      //[99, 7, 4, -3, 2, 12]
+    public static int[] selectionSort(int[]array){
         for (int i = 0; i < array.length; i++) {
             int minIndex=i;                     // 0    1  2  3   4  5
             for (int j = i+1; j < array.length; j++)
@@ -26,7 +26,7 @@ public class SelectionSort {
     }
 
     public static void main(String[] args) {
-        var myArray=new int[]{99,7,4,-3,2,12};
+        var myArray=new int[]{1,4,7,-3,2,12};
 
         System.out.println(Arrays.toString(myArray));
         System.out.println("Selection sort ");
