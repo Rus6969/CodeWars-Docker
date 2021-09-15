@@ -6,7 +6,7 @@ public class insertionSort {
     public static int[] insertion(int[] array) {
         // we are starting from second item bc we are doing insertion operation we compare them
         for (int i = 1; i < array.length; i++) {
-            int current= array[i];
+            int current= array[i]; // we are assigninig new comming value
             int j=i-1; // the last item of a sorted part
             while(j>=0 && array[j]>current){
                 // shifting operation
