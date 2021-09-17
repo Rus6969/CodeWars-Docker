@@ -3,6 +3,7 @@ package SortingAlgorithms;
 import java.util.Arrays;
 
 public class insertionSort {
+
     public static int[] insertion(int[] array) {
         // we are starting from second item bc we are doing insertion operation we compare them
         for (int i = 1; i < array.length; i++) {
@@ -19,11 +20,13 @@ public class insertionSort {
         return array;
     }
 
+    /////
     public static void main(String[] args) {
-        var myArray=new int[]{99,7,4,-3,2,12};
+        var myArray = new int[]{99, 7, 4, -3, 2, 12};
 
         System.out.println(Arrays.toString(myArray));
         System.out.println("insertion_Sort sort ");
         System.out.println(Arrays.toString(insertion(myArray)));
+
     }
 }
