@@ -1,5 +1,7 @@
 package SortingAlgorithms;
 
+import java.util.Arrays;
+
 public class QuickSort {
     public void sort(int[] array) {
         sort(array, 0, array.length - 1);
@@ -38,5 +40,12 @@ public class QuickSort {
         var temp = array[index1];
         array[index1] = array[index2];
         array[index2] = temp;
+    }
+
+    public static void main(String[] args) {
+        var myarray=new int[]{8, 2, 4, 1, 3,0,-1};
+        QuickSort quickSort = new QuickSort();
+        quickSort.sort(myarray);
+        System.out.println(Arrays.toString(myarray));
     }
 }
