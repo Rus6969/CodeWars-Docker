@@ -4,18 +4,21 @@ import java.util.Arrays;
 
 public class QuickSort {
     public void sort(int[] array) {
+        //array-1  pivot as a last elemet
         sort(array, 0, array.length - 1);
     }
 
     private void sort(int[] array, int start, int end) {
-        if (start >= end) // termination
+        if (start >= end) // termination criteria one element or already sorted
             return;
-
+           //boundary is an end of a left partitioner
         var boundary = partition(array, start, end);
-
-        sort(array, start, boundary - 1);
-        sort(array, boundary + 1, end);
+  // sort for lef partition and right
+        sort(array, start, boundary - 1); // left array part
+        sort(array, boundary + 1, end); // right array part
     }
+
+    // all greater items on a right smaller on a left , pivot can be at any place
     private int partition(int[] myArr, int start, int end) {
         var pivot = myArr[end];
         var boundary = start;
