@@ -7,7 +7,7 @@ public class SelectionSort {
 
     public static int[] selectionSort(int[]array){
         for (int i = 0; i < array.length; i++) {
-            int minIndex=i;                     // 0    1  2  3   4  5
+            int minIndex=i; //we do not need to keep a value we just need to know place                     // 0    1  2  3   4  5
             for (int j = i+1; j < array.length; j++)
                 if (array[j]<array[minIndex]) minIndex=j;                     //  we want sorted keep separate from not sorted
                 swap(array,minIndex,i);

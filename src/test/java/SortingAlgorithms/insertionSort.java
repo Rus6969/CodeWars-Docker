@@ -12,7 +12,7 @@ public class insertionSort {
             while(j>=0 && array[j]>current){
                 // shifting operation
                 array[j+1]=array[j];
-                j--; // move to begining of sorted part of array
+                j--; // move to begining of sorted part of array( we are strting from end moving to begining)
             }
             // j+1 bc we comparing with current if it not grater we stop
             array[j+1]=current;

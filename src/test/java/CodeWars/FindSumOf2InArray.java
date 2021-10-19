@@ -51,6 +51,7 @@ public class FindSumOf2InArray {
 
             // store index of the current element in the map
             map.put(A[i], i);
+            System.out.println(map);
         }
 
         // we reach here if the pair is not found
@@ -59,7 +60,7 @@ public class FindSumOf2InArray {
 
     public static void main (String[] args)
     {
-        int[] A = { 2,7,11,15 };
+        int[] A = { 15,7,11,2 };
         int target = 9;
 
         //findZalupu(A, target);
