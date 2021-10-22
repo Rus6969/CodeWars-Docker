@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="another solution is added with description for quick sort">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/LinerSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/LinerSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +85,13 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinerSearch">
-    <configuration name="FindSumOf2InArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.FindSumOf2InArray" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.BinarySearch" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeWars.*" />
+          <option name="PATTERN" value="SearchingAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinerSearch" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.insertionSort" />
-        <item itemvalue="Application.FindSumOf2InArray" />
       </list>
     </recent_temporary>
   </component>
@@ -241,14 +239,7 @@
       <workItem from="1634046939229" duration="265000" />
       <workItem from="1634220548147" duration="13457000" />
       <workItem from="1634584292747" duration="17835000" />
-      <workItem from="1634851373204" duration="3748000" />
-    </task>
-    <task id="LOCAL-00005" summary="stacks">
-      <created>1629328000545</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1629328000545</updated>
+      <workItem from="1634851373204" duration="4518000" />
     </task>
     <task id="LOCAL-00006" summary="stacks">
       <created>1629328279394</created>
@@ -586,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634872403369</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="another solution is added with description for quick sort">
+      <created>1634873156093</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1634873156093</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +633,7 @@
       <screen x="-1920" y="-628" width="1920" height="949" />
     </state>
     <state x="-1154" y="-436" key="#com.intellij.ide.util.MemberChooser/-1920.-628.1920.949/0.25.1792.1095@-1920.-628.1920.949" timestamp="1631454899305" />
-    <state x="-1123" y="-225" key="Github.Dialog.Accounts.Choose" timestamp="1634872406775">
+    <state x="-1123" y="-225" key="Github.Dialog.Accounts.Choose" timestamp="1634873159215">
       <screen x="-1920" y="-628" width="1920" height="935" />
     </state>
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588255699" />
@@ -644,7 +642,7 @@
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629332091310" />
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629330815432" />
     <state x="744" y="497" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1630547546120" />
-    <state x="-1123" y="-225" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.935/0.25.1792.1095@-1920.-628.1920.935" timestamp="1634872406775" />
+    <state x="-1123" y="-225" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.935/0.25.1792.1095@-1920.-628.1920.935" timestamp="1634873159215" />
     <state x="-1123" y="-223" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.940/0.25.1792.1095@-1920.-628.1920.940" timestamp="1629660678828" />
     <state x="-1123" y="-221" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.945/0.25.1792.1095@-1920.-628.1920.945" timestamp="1634668516236" />
     <state x="-1123" y="-219" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.949/0.25.1792.1095@-1920.-628.1920.949" timestamp="1631455694901" />
@@ -1005,7 +1003,7 @@
     </state>
     <state x="-1483" y="-503" key="SettingsEditor/-1920.-628.1920.968/0.25.1792.1095@-1920.-628.1920.968" timestamp="1632169715748" />
     <state x="408" y="180" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1628618301841" />
-    <state x="-1389" y="-404" key="Vcs.Push.Dialog.v2" timestamp="1634872404904">
+    <state x="-1389" y="-404" key="Vcs.Push.Dialog.v2" timestamp="1634873157322">
       <screen x="-1920" y="-628" width="1920" height="935" />
     </state>
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588115926" />
@@ -1014,7 +1012,7 @@
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629332089377" />
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629330813513" />
     <state x="496" y="287" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1630547544102" />
-    <state x="-1389" y="-404" key="Vcs.Push.Dialog.v2/-1920.-628.1920.935/0.25.1792.1095@-1920.-628.1920.935" timestamp="1634872404904" />
+    <state x="-1389" y="-404" key="Vcs.Push.Dialog.v2/-1920.-628.1920.935/0.25.1792.1095@-1920.-628.1920.935" timestamp="1634873157322" />
     <state x="-1389" y="-403" key="Vcs.Push.Dialog.v2/-1920.-628.1920.940/0.25.1792.1095@-1920.-628.1920.940" timestamp="1629660676861" />
     <state x="-1389" y="-402" key="Vcs.Push.Dialog.v2/-1920.-628.1920.945/0.25.1792.1095@-1920.-628.1920.945" timestamp="1634668513103" />
     <state x="-1389" y="-401" key="Vcs.Push.Dialog.v2/-1920.-628.1920.949/0.25.1792.1095@-1920.-628.1920.949" timestamp="1631455692196" />
