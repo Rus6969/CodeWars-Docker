@@ -4,7 +4,7 @@ public class LinerSearch {
     public static int findAData(int array[], int data) {
         for (int i = 0; i < array.length; i++) {
             if (array[i] == data) {
-                return data;
+                return i;
 
             } else {
 
