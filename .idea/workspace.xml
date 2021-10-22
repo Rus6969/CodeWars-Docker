@@ -22,10 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="2 variants of binary seaarch">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/TernarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" afterDir="false" />
+    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="Ternary search">
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/TernarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/TernarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.TernarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.BinarySearch" />
       <module name="CodeWars-Docker" />
@@ -140,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingAlgorithms.insertionSort" />
+    <configuration name="TernarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.TernarySearch" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SortingAlgorithms.*" />
+          <option name="PATTERN" value="SearchingAlgorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TernarySearch" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinerSearch" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.insertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -241,14 +239,7 @@
       <workItem from="1634046939229" duration="265000" />
       <workItem from="1634220548147" duration="13457000" />
       <workItem from="1634584292747" duration="17835000" />
-      <workItem from="1634851373204" duration="7999000" />
-    </task>
-    <task id="LOCAL-00007" summary="stacks">
-      <created>1629329560151</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1629329560151</updated>
+      <workItem from="1634851373204" duration="8317000" />
     </task>
     <task id="LOCAL-00008" summary="recursive">
       <created>1629330544481</created>
@@ -586,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634874180764</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Ternary search">
+      <created>1634921866336</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1634921866336</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,7 +627,8 @@
     <MESSAGE value="find some of 2 get target" />
     <MESSAGE value="another solution is added with description for quick sort" />
     <MESSAGE value="2 variants of binary seaarch" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 variants of binary seaarch" />
+    <MESSAGE value="Ternary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ternary search" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1154" y="-436" key="#com.intellij.ide.util.MemberChooser" timestamp="1631454899305">
