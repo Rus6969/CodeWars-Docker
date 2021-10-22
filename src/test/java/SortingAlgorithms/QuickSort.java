@@ -45,6 +45,9 @@ public class QuickSort {
         array[index2] = temp;
     }
 
+
+
+
     /////////////////second solution////////////////////
     public int[] quicksort(int[] arr) {
         quicksort(arr, 0, arr.length - 1);
@@ -60,7 +63,7 @@ public class QuickSort {
         // Only proceed if left is less than right
         if (left < right) {
             // Find the position of pivot
-            int pivotFinalRestingPosition = partition(arr, left, right);
+            int pivotFinalRestingPosition = partition2(arr, left, right);
 
             // Recursively call left and right subarray to the pivot
             quicksort(arr, left, pivotFinalRestingPosition - 1);
@@ -105,9 +108,9 @@ public class QuickSort {
 
 
     public static void main(String[] args) {
-        var myarray=new int[]{8, 2, 4,-1};
+        var myarray=new int[]{6,8,3,9,7};
         QuickSort quickSort = new QuickSort();
-        quickSort.sort(myarray);
+        quickSort.quicksort(myarray);
         System.out.println(Arrays.toString(myarray));
     }
 }
