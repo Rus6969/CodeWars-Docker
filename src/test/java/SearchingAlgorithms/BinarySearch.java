@@ -1,5 +1,6 @@
 package SearchingAlgorithms;
 //Works only on sorted lists !!!!!!!!!
+// time complexity is same o(log n) but space complexity Recursive O(log n) and Iteractive( o(1)
 public class BinarySearch {
     public static int binarySearchRec(int[] array,int data){
         return binarySearchRec(array,data,0, array.length-1);
