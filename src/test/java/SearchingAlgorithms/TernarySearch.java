@@ -1,5 +1,5 @@
 package SearchingAlgorithms;
-//simmilar to Binary search but we devide in 3 parts not 2
+//similar to Binary search but we devide in 3 parts not 2
 // performance log3 n slower makes to much comparisons
 public class TernarySearch {
     public static int ternarySearch(int[] array,int data){

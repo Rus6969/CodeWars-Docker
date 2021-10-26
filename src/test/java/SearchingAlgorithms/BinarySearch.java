@@ -13,7 +13,7 @@ public class BinarySearch {
         return binarySearchRec(array, data,middle+1,right);
     }
 
-    // second option
+    // second option not using recursive method
     public int binSearchIterative(int[] array,int data){
         int left=0;
         int right=array.length-1;

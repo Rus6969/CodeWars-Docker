@@ -4,7 +4,9 @@ public class JumpSearch {
     public static int jumpSearch(int[] array,int data){
         int blockSize=(int) Math.sqrt(array.length);
         int start= 0;
+        // integer which keeps jumps to each block
         int next=blockSize;
+                                    // next-1 blocksize each block size
         while (start<array.length && array[next-1]<data){
             start=next;
             next+=blockSize;
@@ -17,7 +19,7 @@ public class JumpSearch {
 
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6,7,8,9};
-        System.out.println(jumpSearch(arr,4));
+        System.out.println(jumpSearch(arr,7));
     }
 
 
