@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="Ternary search">
+    <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="jum search algorithm">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/ExponentialSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/JumpSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/JumpSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/TernarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/TernarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +86,22 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JumpSearch">
+  <component name="RunManager" selected="Application.ExponentialSearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.BinarySearch" />
+      <module name="CodeWars-Docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SearchingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExponentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.ExponentialSearch" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
@@ -128,19 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingAlgorithms.QuickSort" />
-      <module name="CodeWars-Docker" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortingAlgorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TernarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.TernarySearch" />
       <module name="CodeWars-Docker" />
@@ -167,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExponentialSearch" />
         <item itemvalue="Application.JumpSearch" />
         <item itemvalue="Application.TernarySearch" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinerSearch" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -242,14 +240,7 @@
       <workItem from="1634046939229" duration="265000" />
       <workItem from="1634220548147" duration="13457000" />
       <workItem from="1634584292747" duration="17835000" />
-      <workItem from="1634851373204" duration="20998000" />
-    </task>
-    <task id="LOCAL-00010" summary="queue">
-      <created>1629332041066</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1629332041066</updated>
+      <workItem from="1634851373204" duration="23167000" />
     </task>
     <task id="LOCAL-00011" summary="new task map">
       <created>1629588110947</created>
@@ -587,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634926348915</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="jum search algorithm">
+      <created>1635270422356</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1635270422356</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,7 +604,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove test files" />
     <MESSAGE value="stacks" />
     <MESSAGE value="recursive" />
     <MESSAGE value="queue" />
@@ -631,15 +628,16 @@
     <MESSAGE value="another solution is added with description for quick sort" />
     <MESSAGE value="2 variants of binary seaarch" />
     <MESSAGE value="Ternary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ternary search" />
+    <MESSAGE value="jum search algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="jum search algorithm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1154" y="-436" key="#com.intellij.ide.util.MemberChooser" timestamp="1631454899305">
       <screen x="-1920" y="-628" width="1920" height="949" />
     </state>
     <state x="-1154" y="-436" key="#com.intellij.ide.util.MemberChooser/-1920.-628.1920.949/0.25.1792.1095@-1920.-628.1920.949" timestamp="1631454899305" />
-    <state x="744" y="483" key="Github.Dialog.Accounts.Choose" timestamp="1634923436500">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="744" y="458" key="Github.Dialog.Accounts.Choose" timestamp="1635270428548">
+      <screen x="0" y="25" width="1792" height="1005" />
     </state>
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588255699" />
     <state x="744" y="460" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1010@0.25.1792.1010" timestamp="1628565999611" />
@@ -664,6 +662,7 @@
     <state x="-1123" y="-207" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.977/0.25.1792.1095@-1920.-628.1920.977" timestamp="1630624635694" />
     <state x="744" y="483" key="Github.Dialog.Accounts.Choose/-1920.-653.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1634923436500" />
     <state x="744" y="483" key="Github.Dialog.Accounts.Choose/0.0.1792.1120@0.0.1792.1120" timestamp="1631538517028" />
+    <state x="744" y="458" key="Github.Dialog.Accounts.Choose/0.25.1792.1005@0.25.1792.1005" timestamp="1635270428548" />
     <state width="1532" height="380" key="GridCell.Tab.0.bottom" timestamp="1635270376041">
       <screen x="0" y="25" width="1792" height="1005" />
     </state>
@@ -1033,8 +1032,8 @@
     </state>
     <state x="-1483" y="-503" key="SettingsEditor/-1920.-628.1920.968/0.25.1792.1095@-1920.-628.1920.968" timestamp="1632169715748" />
     <state x="408" y="180" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1628618301841" />
-    <state x="496" y="268" key="Vcs.Push.Dialog.v2" timestamp="1634923434838">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="496" y="265" key="Vcs.Push.Dialog.v2" timestamp="1635270424310">
+      <screen x="0" y="25" width="1792" height="1005" />
     </state>
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588115926" />
     <state x="496" y="267" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1010@0.25.1792.1010" timestamp="1628565996249" />
@@ -1059,6 +1058,7 @@
     <state x="-1389" y="-394" key="Vcs.Push.Dialog.v2/-1920.-628.1920.977/0.25.1792.1095@-1920.-628.1920.977" timestamp="1630624633628" />
     <state x="496" y="268" key="Vcs.Push.Dialog.v2/-1920.-653.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1634923434838" />
     <state x="496" y="268" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1631538514444" />
+    <state x="496" y="265" key="Vcs.Push.Dialog.v2/0.25.1792.1005@0.25.1792.1005" timestamp="1635270424310" />
     <state x="258" y="84" width="1390" height="661" key="dock-window-1" timestamp="1630981484346">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
