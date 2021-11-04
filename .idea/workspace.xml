@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b778e97-0ec4-437c-a822-5a2663230216" name="Default Changelist" comment="exponentional search">
-      <change afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/SearchInUnsortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/ExponentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchingAlgorithms/ExponentialSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/interviewQuestions/SearchInUnsortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/interviewQuestions/SearchInUnsortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExponentialSearch">
+  <component name="RunManager" selected="Application.SearchInUnsortedArray">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.BinarySearch" />
       <module name="CodeWars-Docker" />
@@ -127,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinerSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchingAlgorithms.LinerSearch" />
+    <configuration name="SearchInUnsortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions.SearchInUnsortedArray" />
       <module name="CodeWars-Docker" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SearchingAlgorithms.*" />
+          <option name="PATTERN" value="interviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +152,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInUnsortedArray" />
         <item itemvalue="Application.ExponentialSearch" />
         <item itemvalue="Application.JumpSearch" />
         <item itemvalue="Application.TernarySearch" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinerSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -233,13 +243,7 @@
       <workItem from="1634851373204" duration="24758000" />
       <workItem from="1635423302533" duration="597000" />
       <workItem from="1635424896380" duration="599000" />
-    </task>
-    <task id="LOCAL-00012" summary="new task map">
-      <created>1629660476940</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1629660476940</updated>
+      <workItem from="1635988108880" duration="1790000" />
     </task>
     <task id="LOCAL-00013" summary="new task map">
       <created>1629669511263</created>
@@ -577,7 +581,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635356809175</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="exponentional search">
+      <created>1635988121174</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1635988121175</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,13 +639,13 @@
       <screen x="-1920" y="-628" width="1920" height="949" />
     </state>
     <state x="-1154" y="-436" key="#com.intellij.ide.util.MemberChooser/-1920.-628.1920.949/0.25.1792.1095@-1920.-628.1920.949" timestamp="1631454899305" />
-    <state x="744" y="458" key="Github.Dialog.Accounts.Choose" timestamp="1635270428548">
-      <screen x="0" y="25" width="1792" height="1005" />
+    <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose" timestamp="1635988124951">
+      <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588255699" />
     <state x="744" y="460" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1010@0.25.1792.1010" timestamp="1628565999611" />
     <state x="-1123" y="-173" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1013@-1920.-628.1920.1055" timestamp="1630546848812" />
-    <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629332091310" />
+    <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1635988124951" />
     <state x="-1123" y="-174" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629330815432" />
     <state x="-1123" y="-173" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1095@-1920.-628.1920.1055" timestamp="1634874183646" />
     <state x="744" y="497" key="Github.Dialog.Accounts.Choose/-1920.-628.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1630547546120" />
@@ -1033,13 +1044,13 @@
     </state>
     <state x="-1483" y="-503" key="SettingsEditor/-1920.-628.1920.968/0.25.1792.1095@-1920.-628.1920.968" timestamp="1632169715748" />
     <state x="408" y="180" key="SettingsEditor/0.25.1792.1029@0.25.1792.1029" timestamp="1628618301841" />
-    <state x="496" y="265" key="Vcs.Push.Dialog.v2" timestamp="1635270424310">
-      <screen x="0" y="25" width="1792" height="1005" />
+    <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2" timestamp="1635988122770">
+      <screen x="-1920" y="-628" width="1920" height="1055" />
     </state>
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1005@-1920.-628.1920.1055" timestamp="1629588115926" />
     <state x="496" y="267" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1010@0.25.1792.1010" timestamp="1628565996249" />
     <state x="-1389" y="-376" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1013@-1920.-628.1920.1055" timestamp="1630546847035" />
-    <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1629332089377" />
+    <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1635988122770" />
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1017@-1920.-628.1920.1055" timestamp="1629330813513" />
     <state x="-1389" y="-375" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1095@-1920.-628.1920.1055" timestamp="1634874181962" />
     <state x="496" y="287" key="Vcs.Push.Dialog.v2/-1920.-628.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1630547544102" />
@@ -1079,6 +1090,10 @@
     </state>
     <state x="88" y="168" width="1288" height="708" key="dock-window-2/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1630006916571" />
     <state x="236" y="182" width="1328" height="705" key="dock-window-2/-1920.-628.1920.963/0.25.1792.1095@-1920.-628.1920.963" timestamp="1629297139418" />
+    <state x="-1311" y="-427" width="602" height="735" key="find.popup" timestamp="1635989356382">
+      <screen x="-1920" y="-628" width="1920" height="1055" />
+    </state>
+    <state x="-1311" y="-427" width="602" height="735" key="find.popup/-1920.-628.1920.1055/0.25.1792.1015@-1920.-628.1920.1055" timestamp="1635989356382" />
     <state x="-1316" y="-402" width="718" height="636" key="search.everywhere.popup" timestamp="1630777633327">
       <screen x="-1920" y="-628" width="1920" height="966" />
     </state>
