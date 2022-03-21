@@ -1,0 +1,14 @@
+{
+  "stockPrices": [
+    { "symbol": "MSFT", "timestamp": "2021-12-09T12:07:30Z", "price": "$1.00" },
+    { "symbol": "GOOG", "timestamp": "2021-12-11T12:08:30Z", "price": "$3.24" },
+    { "symbol": "MSFT", "timestamp": "2021-12-11T13:07:30Z", "price": "$1.20" },
+    { "symbol": "MSFT", "timestamp": "2021-12-12T14:08:30Z", "price": "$0.10" },
+    { "symbol": "FACE", "timestamp": "2021-12-14T14:09:30Z", "price": "$12.12" },
+    { "symbol": "FACE", "timestamp": "2021-12-12T12:08:30Z", "price": "$4.23" },
+    { "symbol": "MSFT", "timestamp": "2021-12-12T12:09:30Z", "price": "$2.12" },
+    { "symbol": "GOOG", "timestamp": "2021-12-13T15:09:30Z", "price": "$8.90" },
+    { "symbol": "MSFT", "timestamp": "2021-12-14T16:09:30Z", "price": "$100.42" },
+    { "symbol": "FACE", "timestamp": "2021-12-14T13:09:30Z", "price": "$40.40" }
+  ]
+}
