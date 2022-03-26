@@ -55,7 +55,8 @@ public class CopyFromOneFileToAnother {
 //            String b = sc.nextLine();
 //
 //            // destination file
-//            File y = new File(b);
+//            File ytets
+//            = new File(b);
 //
 //            // method called to copy the
 //            // contents from x to y
@@ -95,6 +96,8 @@ public class CopyFromOneFileToAnother {
             ioe.printStackTrace();
         }
     }
+
+
 }
 
 
