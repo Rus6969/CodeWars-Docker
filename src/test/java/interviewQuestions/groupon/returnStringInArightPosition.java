@@ -25,7 +25,8 @@ Examples
     public static void main(String[] args) {
         String phrase="is2 Thi1s T4est 3a";
         System.out.println(order(phrase));
-
+        System.out.println("-*-*-*-*-*-*-*-*-*");
+        System.out.println(order_Without_Tokenizer(phrase));
 
     }
     public static String order(String string) {
@@ -46,5 +47,24 @@ Examples
             sb.append(s + ' ');
         }
         return sb.toString().trim();
+    }
+
+
+    public static String order_Without_Tokenizer(String words) {
+
+        String[] _words = words.split(" ");
+        String[] out = new String[_words.length];
+
+        for (int i=0; i<_words.length; i++) {
+            for (Character c : _words[i].toCharArray()) {
+                if (Character.isDigit(c)) {
+                    out[Character.getNumericValue(c)-1] = _words[i];
+                }
+            }
+        }
+
+        if (out.length<=1) return "";
+
+        return java.util.Arrays.stream(out).collect(java.util.stream.Collectors.joining(" "));
     }
 }
