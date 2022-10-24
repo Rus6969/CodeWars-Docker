@@ -39,6 +39,6 @@ public class Rotate2dMatrix {
             }
         }
 
-
+     return matrix;
     }
 }
