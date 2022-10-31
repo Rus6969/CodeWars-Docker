@@ -30,7 +30,7 @@ public class Rotate2dMatrix {
                 matrix[j][i] = temp;
             }
         }
-        // step 2 swap inside each row
+        // step 2 swap inside each row , flip horrizontally
 
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < (N/2); j++) {
@@ -45,12 +45,27 @@ public class Rotate2dMatrix {
     }
 
     public static void main(String[] args) {
+        int matrix_given[][] = {{1,2,3},{4,5,6}};
         System.out.println("INPUT ");
-    int matrix_given[][] = {{1,2,3},{4,5,6},{7,8,9}};
-        System.out.print(Arrays.deepToString(matrix_given));
-        System.out.println();
-        System.out.println("oout put"+ Arrays.deepToString(rotate(matrix_given)));
+        System.out.println(Arrays.deepToString(matrix_given));
 
+
+
+        for (int i = 0; i < matrix_given.length; i++) {
+            for (int j = 0; j < (matrix_given.length/2); j++) {
+                int temp = matrix_given[i][j];
+                matrix_given[i][j] =matrix_given[i][matrix_given.length-1-j];
+                // this step  we do not want swipe twice
+                matrix_given[i][matrix_given.length-1-j] = temp;
+            }
+        }
+        System.out.println(Arrays.deepToString(matrix_given));
+
+//
+//        System.out.print(Arrays.deepToString(matrix_given));
+//        System.out.println();
+//        System.out.println("oout put"+ Arrays.deepToString(rotate(matrix_given)));
+//
 
     }
 }
