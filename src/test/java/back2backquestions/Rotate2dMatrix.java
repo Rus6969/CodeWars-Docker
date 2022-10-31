@@ -16,8 +16,10 @@ Output:
 
  */
 
+import java.util.Arrays;
+
 public class Rotate2dMatrix {
-    public int[][] rotate(int[][] matrix) {
+    public  static int[][] rotate(int[][] matrix) {
         int N = matrix.length;
         // step number 1 we need convert rows into columns
         for (int i = 0; i < N; i++) {
@@ -40,5 +42,15 @@ public class Rotate2dMatrix {
         }
 
      return matrix;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("INPUT ");
+    int matrix_given[][] = {{1,2,3},{4,5,6},{7,8,9}};
+        System.out.print(Arrays.deepToString(matrix_given));
+        System.out.println();
+        System.out.println("oout put"+ Arrays.deepToString(rotate(matrix_given)));
+
+
     }
 }
