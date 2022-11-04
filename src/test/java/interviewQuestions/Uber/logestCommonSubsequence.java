@@ -13,4 +13,5 @@ lcs( "132535365", "123456789" ) => "12356"
 lcs( "abcdefghijklmnopq", "apcdefghijklmnobq" ) => "acdefghijklmnoq"
  */
 public class logestCommonSubsequence {
+
 }
