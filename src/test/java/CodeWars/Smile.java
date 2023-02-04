@@ -12,3 +12,6 @@ public class Smile {
         System.out.println("Number of smiles " + count);
     }
 }
+/*
+mike wrote his code
+ */
